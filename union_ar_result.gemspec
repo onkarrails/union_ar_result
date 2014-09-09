@@ -6,10 +6,10 @@ require 'union_ar_result/version'
 Gem::Specification.new do |spec|
   spec.name          = "union_ar_result"
   spec.version       = UnionArResult::VERSION
-  spec.authors       = ["TODO: Write your name"]
-  spec.email         = ["TODO: Write your email address"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.authors       = ["Onkar B"]
+  spec.email         = ["omkar.b440@gmail.com"]
+  spec.summary       = %q{Union multiple array result of same table and provide back AR result}
+  spec.description   = spec.summary
   spec.homepage      = ""
   spec.license       = "MIT"
 
